@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+
+body{
+	font-family: "Roboto" , sans-serif;
+	font-size: 18px;
+	color: #004B97;
+}
+
+input.input{
+	font-family: "Roboto" , sans-serif;
+	font-size: 18px;
+	color: #004B97;
+	border-radius: 6px;
+}
+
+#submit{
+	border: none;
+}
+
+#submit:hover{
+	background-color: red;
+	color: white;
+	transition: 0.5s;
+}
