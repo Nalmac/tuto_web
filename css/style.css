@@ -13,6 +13,28 @@ input.input{
 	border-radius: 6px;
 }
 
+div.menu{
+	margin-right: auto;
+	margin-left: auto;
+	width: 1300px;
+	background-color: #FE990F;
+}
+
+button.select{
+	border-radius: 6px;
+	background-color: firebrick;
+	color: white;
+	width: 200px;
+	border: none;
+	transition: 0.5s;
+}
+
+button.select:hover{
+	border-radius: 50px;
+	background-color: red;
+	transition: 0.5s;
+}
+
 #submit{
 	border: none;
 }
