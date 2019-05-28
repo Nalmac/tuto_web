@@ -1,0 +1,114 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+
+body{
+	background-color: grey;
+	font-family: 'Pacifico', cursive;
+	font-size: 18px;
+	color: 000000;
+}
+
+input.input{
+	font-family: 'Pacifico', cursive;
+	font-size: 18px;
+	color: 000000;
+	border-radius: 6px;
+}
+h1{
+	color: #92B5EC; 
+}
+
+h2{
+	color: #B4A519; 
+}
+
+h3{
+	color: #18CD86; 
+}
+
+div.menu{
+	margin-right: auto;
+	margin-left: auto;
+	width: 1300px;
+	background-color: #3F4449;
+}
+
+div.fin{
+	margin-right: auto;
+	margin-left: auto;
+	width: 1300px;
+	background-color: white;
+}
+
+button.select{
+	border-radius: 6px;
+	background-color: darkgrey;
+	color: white;
+	width: 200px;
+	border: none;
+	transition: 0.5s;
+
+}
+
+button.select:hover{
+	border-radius: 50px;
+	background-color: blue;
+	transition: 0.5s;
+}
+
+button.go{
+	border-radius: 6px;
+	background-color: darkgrey;
+	color: white;
+	width: 200px;
+	border: none;
+	transition: 0.5s;
+}
+
+button.go:hover{
+	border-radius: 6px;
+	background-color: red;
+	transition: 0.5s;
+}
+
+button.ez{
+	border-radius: 6px;
+	background-color: darkgrey;
+	color: white;
+	width: 200px;
+	border: none;
+	transition: 0.5s;
+}
+
+button.ez:hover{
+	border-radius: 6px;
+	background-color: orange;
+	transition: 0.5s;
+}
+
+button.ar{
+	border-radius: 6px;
+	background-color: darkgrey;
+	color: white;
+	width: 200px;
+	border: none;
+	transition: 0.5s;
+}
+
+button.ar:hover{
+	border-radius: 6px;
+	background-color: purple;
+	transition: 0.5s;
+}
+
+#submit{
+	border: none;
+}
+
+#submit:hover{
+	border: none;
+}
+
+#submit:hover{
+	background-color: red;
+	color: white;
+	transition: 0.5s
